@@ -6,7 +6,7 @@ Documenting every part of the journey here :)
 
 ## Contents & Progress
 
-# First Term ![In_Progress](https://img.shields.io/badge/Progress-20%25-brightgreen)
+# First Term ![Progress](https://img.shields.io/badge/Overall_Progress-20%25-yellow)
 
 Unit 1: Diploma Prerequisits
 
