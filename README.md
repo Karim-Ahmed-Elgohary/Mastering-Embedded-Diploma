@@ -7,7 +7,7 @@ Documenting every part of the journey here :)
 ## Contents & Progress
 
 # First Term 
-<progress value="20" max ="100"></progress>
+<progress value="20" max ="100"></progress> 20%
 
 Unit 1: Diploma Prerequisits
 
