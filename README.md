@@ -9,7 +9,11 @@ Documenting every part of the journey here :)
 # First Term
 
 Unit 1: Diploma Prerequisits
+
 Unit 2: C Programming
+
 Unit 3: Embedded C
+
 Unit 4: System Architecture
+
 Unit 5: First Term Projects
