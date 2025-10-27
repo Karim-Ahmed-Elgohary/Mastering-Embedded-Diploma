@@ -15,6 +15,7 @@ Unit 2: C Programming
 ![20](https://img.shields.io/badge/-20%25-yellow)
 
 Unit 3: Embedded C
+![0](https://img.shields.io/badge/-0%25-red)
 
 Unit 4: System Architecture
 
