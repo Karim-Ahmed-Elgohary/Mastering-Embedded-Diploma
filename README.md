@@ -8,7 +8,7 @@ Documenting every part of the journey here :)
 
 # First Term ![Progress](https://img.shields.io/badge/In_Progress-20%25-yellow)
 
-Unit 1: Diploma Prerequisits
+Unit 1: Diploma Prerequisits 
 ![100](https://img.shields.io/badge/-100%25-brightgreen)
 
 Unit 2: C Programming
