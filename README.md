@@ -18,5 +18,9 @@ Unit 3: Embedded C
 ![0](https://img.shields.io/badge/-0%25-red)
 
 Unit 4: System Architecture
+![0](https://img.shields.io/badge/-0%25-red)
+
 
 Unit 5: First Term Projects
+![0](https://img.shields.io/badge/-0%25-red)
+
