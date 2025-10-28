@@ -25,9 +25,11 @@ void main()
 
 }
 
-# Output
+### Output 🎥
+<video src="https://raw.githubusercontent.com/Karim-Ahmed-Elgohary/Mastering-Embedded-Diploma/refs/heads/main/Term_1/Videos/a1%20o1.mp4" controls width="600"></video>
 
-<iframe src="https://drive.google.com/uc?export=preview&id=1VZuPm9-xceCWogqaslPzZrJKE_oNtj1p" width="640" height="360" allow="autoplay">
+
+
 
 
 
