@@ -2,6 +2,7 @@
 
 void main()
 {
+
 	int n;
 
 	printf("Enter an integer you want to check:");
