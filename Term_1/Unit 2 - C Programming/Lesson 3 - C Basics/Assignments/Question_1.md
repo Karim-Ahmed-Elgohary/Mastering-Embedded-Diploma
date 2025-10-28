@@ -27,7 +27,7 @@ void main()
 
 
 ### Output 🎥
-[▶️ Watch Output](https://github.com/Karim-Ahmed-Elgohary/Mastering-Embedded-Diploma/raw/refs/heads/main/Term_1/Videos/a1%20o1.mp4)
+[](https://github.com/Karim-Ahmed-Elgohary/Mastering-Embedded-Diploma/raw/refs/heads/main/Term_1/Videos/a1%20o1.mp4)
 
 
 
