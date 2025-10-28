@@ -27,7 +27,9 @@ void main()
 
 
 ### Output 🎥
-<video src="https://raw.githubusercontent.com/Karim-Ahmed-Elgohary/Mastering-Embedded-Diploma/refs/heads/main/Term_1/Videos/a1%20o1.mp4" controls width="640"></video>
+(https://github.com/Karim-Ahmed-Elgohary/Mastering-Embedded-Diploma/raw/refs/heads/main/Term_1/Videos/a1%20o1.mp4)
+
+
 
 
 
