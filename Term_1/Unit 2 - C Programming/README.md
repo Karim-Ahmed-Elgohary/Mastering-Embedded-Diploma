@@ -1,1 +1,1 @@
-All notes regarding unit 2
+All assignments of unit 2
