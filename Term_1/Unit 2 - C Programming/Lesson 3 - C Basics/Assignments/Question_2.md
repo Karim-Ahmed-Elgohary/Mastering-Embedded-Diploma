@@ -16,3 +16,7 @@ void main()
 		printf("%c is a consonant.", s);
     
 }
+
+### Output 🎥
+
+![Image](https://github.com/user-attachments/assets/eae0ba17-d796-4980-92f8-0fab64227f2b)
