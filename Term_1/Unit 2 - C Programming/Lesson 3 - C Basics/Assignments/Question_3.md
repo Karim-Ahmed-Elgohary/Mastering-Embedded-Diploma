@@ -20,3 +20,7 @@ void main()
 		printf("largest number = %f",z);
     
 }
+
+### Output 🎥
+
+![Image](https://github.com/user-attachments/assets/b5fd053b-14c6-416f-8104-bd2ddbd97730)
