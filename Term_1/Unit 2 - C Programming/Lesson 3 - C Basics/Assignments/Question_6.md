@@ -23,3 +23,8 @@ void main()
 	printf("Sum = %d",result);
 
 }
+
+
+### Output 🎥
+
+![Image](https://github.com/user-attachments/assets/1cafb614-d953-4d2b-8df1-5c2ee02a1850)
