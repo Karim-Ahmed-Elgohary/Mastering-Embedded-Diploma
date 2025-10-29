@@ -18,3 +18,7 @@ void main()
 		printf("%f is negative.",n);
     
 }
+
+### Output 🎥
+
+![Image](https://github.com/user-attachments/assets/8b5db64e-c52a-47d5-a9c3-c128cd18646e)
