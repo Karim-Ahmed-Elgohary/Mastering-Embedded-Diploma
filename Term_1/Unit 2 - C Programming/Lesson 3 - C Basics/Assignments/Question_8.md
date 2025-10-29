@@ -38,3 +38,8 @@ void main()
 	}
   
 }
+
+
+### Output 🎥
+
+![Image](https://github.com/user-attachments/assets/b16f5ca4-4b0d-4ba3-a8a3-a167ad0e264a)
