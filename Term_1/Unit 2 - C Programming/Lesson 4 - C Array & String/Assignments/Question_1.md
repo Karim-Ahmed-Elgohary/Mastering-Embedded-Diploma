@@ -45,5 +45,7 @@ void main(){
 }
 
 
-### Output
+### Output 🎥
+
+![Image](https://github.com/user-attachments/assets/943fc151-b80d-41d4-8b24-2afdb7fcf970)
 
