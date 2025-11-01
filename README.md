@@ -12,7 +12,7 @@ Unit 1: Diploma Prerequisits
 ![100](https://img.shields.io/badge/-100%25-brightgreen)
 
 Unit 2: C Programming 
-![20](https://img.shields.io/badge/-20%25-yellow)
+![20](https://img.shields.io/badge/-30%25-yellow)
 
 Unit 3: Embedded C 
 ![0](https://img.shields.io/badge/-0%25-red)
