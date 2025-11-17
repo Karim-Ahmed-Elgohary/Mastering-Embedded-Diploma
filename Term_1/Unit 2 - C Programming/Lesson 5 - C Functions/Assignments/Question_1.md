@@ -21,8 +21,8 @@ void GetPrime (int a,int b){
 
 }
 
-
 int main (){
+
 	int x,y;
 	printf("Enter two numbers(intervals): ");
 	fflush(stdout);
