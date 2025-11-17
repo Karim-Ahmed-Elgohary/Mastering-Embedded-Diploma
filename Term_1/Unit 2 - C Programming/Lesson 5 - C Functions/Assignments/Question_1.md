@@ -1,6 +1,7 @@
 #include "stdio.h"
 
-void GetPrime (int a,int b){
+void GetPrime (int a,int b) {
+
 	int i,j,prime;
 	for (i=a;i<=b;i++){
 
