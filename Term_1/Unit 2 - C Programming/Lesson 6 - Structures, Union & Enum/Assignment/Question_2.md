@@ -56,6 +56,6 @@ int main(){
 }
 
 
-###Ouput 🎥
+### Ouput 🎥
 
 ![Image](https://github.com/user-attachments/assets/c5fa4906-4ba7-4cad-8383-ea46b6e85f00)
