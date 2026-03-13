@@ -18,6 +18,6 @@ int main(){
 
 
 
-###Output 🎥
+### Output 🎥
 
 ![Image](https://github.com/user-attachments/assets/c97600cb-fa28-479c-9ace-f6bc7d8f0dee)
