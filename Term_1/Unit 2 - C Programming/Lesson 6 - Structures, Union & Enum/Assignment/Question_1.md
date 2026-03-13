@@ -35,8 +35,10 @@ int main(){
 	printf("\nRoll: %d",S1.roll);
 	printf("\nMarks: %f",S1.marks);
 
-
-
-### Output
 	return 0;
 }
+
+
+### Output 🎥
+
+![Image](https://github.com/user-attachments/assets/85d8709a-794a-4e01-ace9-f8f73ad7177c)
