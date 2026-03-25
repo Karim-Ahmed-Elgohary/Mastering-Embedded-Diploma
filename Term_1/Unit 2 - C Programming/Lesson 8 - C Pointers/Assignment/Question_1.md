@@ -35,6 +35,6 @@ int main()
 }
 
 
-###Ouput
+### Ouput 📸
 
 <img width="1072" height="760" alt="Image" src="https://github.com/user-attachments/assets/75d0b9d2-f062-4148-b2b4-50078aa4d320" />
