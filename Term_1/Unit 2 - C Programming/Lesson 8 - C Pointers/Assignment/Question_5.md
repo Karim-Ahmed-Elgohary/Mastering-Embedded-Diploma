@@ -2,8 +2,10 @@
 
 struct SEmployee 
 {
+
 	char name[20];
 	int ID;
+	
 };
 
 
